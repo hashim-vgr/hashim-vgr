@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @hashim-vgr
+- 👋 Hi, I’m Hashim
 - 👀 I’m interested in Software development, DSP and ML.
 - 🌱 I’m currently learning ML
 - 💞️ I’m looking to collaborate on R&D projects
