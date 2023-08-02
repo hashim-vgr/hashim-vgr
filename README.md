@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @hashim-vgr
-- 👀 I’m interested in Software
-- 🌱 I’m currently learning Flutter
-- 💞️ I’m looking to collaborate on flutter projects
+- 👀 I’m interested in Software development, DSP and ML.
+- 🌱 I’m currently learning ML
+- 💞️ I’m looking to collaborate on R&D projects
 - 📫 How to reach me +91 9496242085
 
 <!---
